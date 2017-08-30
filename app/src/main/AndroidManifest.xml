@@ -43,10 +43,10 @@
             android:value="3UQBZ-SFQ3G-HNQQV-ILQWK-RLJX5-ZFBR7" />   <!-- 腾讯地图定位SDK-->
 
         <activity android:name=".MainActivity">
-            <intent-filter>
+<!--             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
+            </intent-filter> -->
         </activity>
     </application>
 
